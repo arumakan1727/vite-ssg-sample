@@ -1,0 +1,1 @@
+import{_ as r}from"./app.014f90b3.js";import{r as t,o as a,c as n,b as e,a as c,F as s}from"./vendor.8987ca28.js";const _={},m=e("div",null,"[Home Layout]",-1);function l(i,u){const o=t("router-view");return a(),n(s,null,[e("main",null,[c(o)]),m],64)}var p=r(_,[["render",l]]);export{p as default};

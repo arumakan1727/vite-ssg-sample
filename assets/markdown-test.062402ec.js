@@ -1,0 +1,12 @@
+import{u as o,r as e,o as p,c as l,b as n,a as c,w as r,t as i,h as u,e as d}from"./vendor.8987ca28.js";const k={class:"markdown-wrapper"},w=n("h1",null,"This is Markdown test",-1),m=n("p",null,[n("strong",null,"Hello!!")],-1),g=d("Goto Top page (Using <router-link>)"),_=u(`<p><a href="/">Goto Top page (Using markdown link syntax)</a></p><pre class="language-cpp"><code class="language-cpp"><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;iostream&gt;</span></span>
+<span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;string&gt;</span></span>
+
+<span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  std<span class="token double-colon punctuation">::</span>string s<span class="token punctuation">;</span>
+  std<span class="token double-colon punctuation">::</span>cin <span class="token operator">&gt;&gt;</span> s<span class="token punctuation">;</span>
+  std<span class="token double-colon punctuation">::</span>cout <span class="token operator">&lt;&lt;</span> <span class="token string">&quot;Hello, &quot;</span> <span class="token operator">&lt;&lt;</span> s <span class="token operator">&lt;&lt;</span> std<span class="token double-colon punctuation">::</span>endl<span class="token punctuation">;</span>
+
+  <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><ul><li>ul-item 1</li><li>ul-item 2</li><li>ul-item 3</li></ul>`,3),v="Markdown test",x="default",N=[{name:"description",content:"maaaaaarrrrrrkdoooowwwwn"},{property:"og:title",content:"Markdown test"}],T={setup(h,{expose:s}){const t={title:"Markdown test",layout:"default",meta:[{name:"description",content:"maaaaaarrrrrrkdoooowwwwn"},{property:"og:title",content:"Markdown test"}]};return s({frontmatter:t}),o({title:"Markdown test",meta:[{name:"description",content:"maaaaaarrrrrrkdoooowwwwn"},{property:"og:title",content:"Markdown test"}]}),(f,M)=>{const a=e("router-link");return p(),l("div",k,[w,m,n("p",null,[c(a,{to:"/"},{default:r(()=>[g]),_:1})]),_,n("pre",null,""+i(t)+`
+`)])}}};export{T as default,x as layout,N as meta,v as title};
