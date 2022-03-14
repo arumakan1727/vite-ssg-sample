@@ -10,6 +10,8 @@ useHead({
   <h1>This is Index vue</h1>
   <p>Hello world!</p>
   <router-link to="/about">Goto About page</router-link>
+  <br />
+  <router-link to="/markdown-test">Goto Markdown test page</router-link>
 </template>
 
 <route lang="yaml">
