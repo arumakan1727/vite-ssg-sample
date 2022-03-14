@@ -5,8 +5,6 @@ import * as path from 'path'
 import Pages from 'vite-plugin-pages';
 import Layouts from 'vite-plugin-vue-layouts';
 import Markdown from 'vite-plugin-md'
-import markdownItPrism from 'markdown-it-prism';
-import markdownItLinkAttributes from 'markdown-it-link-attributes';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -29,14 +27,13 @@ export default defineConfig({
     Layouts(),
 
     // https://github.com/antfu/vite-plugin-md
-    // Don't need this? Try vitesse-lite: https://github.com/antfu/vitesse-lite
     Markdown({
       wrapperClasses: 'markdown-wrapper',
       headEnabled: true,
       markdownItSetup(md) {
         // https://prismjs.com/
-        md.use(markdownItPrism)
-        md.use(markdownItLinkAttributes, {
+        md.use(require('markdown-it-prism'))
+        md.use(require('markdown-it-link-attributes'), {
           matcher: (link: string) => /^https?:\/\//.test(link),
           attrs: {
             target: '_blank',
