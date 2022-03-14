@@ -8,6 +8,8 @@ import Markdown from 'vite-plugin-md'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: process.env.BASE_URL || '/',
+
   resolve: {
     alias: {
       '@/': `${path.resolve(__dirname, 'src')}/`,
