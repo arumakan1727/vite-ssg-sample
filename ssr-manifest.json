@@ -12,81 +12,104 @@
   "src/main.ts": [],
   "index.html": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/time.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/vite-ssg/dist/chunks/state.mjs": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "/vite-ssg-sample/assets/vendor.8987ca28.js"
+    "/vite-ssg-sample/assets/vendor.cef73715.js"
   ],
   "src/pages/about.vue": [
-    "/vite-ssg-sample/assets/about.00be8811.js"
+    "/vite-ssg-sample/assets/about.a88335a5.js"
+  ],
+  "src/pages/articles.vue": [
+    "/vite-ssg-sample/assets/articles.f2ca1f3c.js"
+  ],
+  "src/modules/extractChildrenComponents.ts": [
+    "/vite-ssg-sample/assets/index.153e4e5c.js"
+  ],
+  "src/pages/articles/index.vue": [
+    "/vite-ssg-sample/assets/index.153e4e5c.js"
+  ],
+  "src/pages/articles/2022/03/post-1/brano-wsrs5hyS0VU-unsplash.jpg": [
+    "/vite-ssg-sample/assets/index.b74259fe.js",
+    "/vite-ssg-sample/assets/brano-wsrs5hyS0VU-unsplash.212c761c.jpg"
+  ],
+  "src/pages/articles/2022/03/post-1/index.md": [
+    "/vite-ssg-sample/assets/index.b74259fe.js",
+    "/vite-ssg-sample/assets/brano-wsrs5hyS0VU-unsplash.212c761c.jpg"
+  ],
+  "src/pages/articles/2022/03/post-2/index.md": [
+    "/vite-ssg-sample/assets/index.2241534f.js"
+  ],
+  "src/pages/articles/2022/03/post-3/index.md": [
+    "/vite-ssg-sample/assets/index.9f4401ec.js"
   ],
   "src/pages/markdown-test.md": [
-    "/vite-ssg-sample/assets/markdown-test.062402ec.js"
+    "/vite-ssg-sample/assets/markdown-test.0187c713.js"
   ],
   "src/layouts/home.vue": [
-    "/vite-ssg-sample/assets/home.f5ce9da6.js"
+    "/vite-ssg-sample/assets/home.51ccf4bf.js"
   ]
 }
